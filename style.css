@@ -1,0 +1,66 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.imagem-fundo {
+    background-image: url("assets/fundo.webp");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    padding-top: 100px;
+    box-sizing: border-box;
+}
+
+.imagem-fundo h1 {
+    color: white;
+    border: 2px solid white;
+    display: inline-block;
+    padding: 15px;
+}
+
+.imagem {
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    padding-top: 80px;
+    box-sizing: border-box;
+}
+
+.praia {
+    background-image: url("assets/praias.webp");
+}
+
+.montanhas {
+    background-image: url("assets/montanhas.webp");
+}
+
+.floresta {
+    background-image: url("assets/florestas.webp");
+}
+
+.imagem h2 {
+    color: white;
+    border: 1px solid white;
+    display: inline-block;
+    padding: 10px;
+}
+
+.texto {
+    background-color: white;
+    padding: 25px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
