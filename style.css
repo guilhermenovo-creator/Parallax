@@ -54,6 +54,8 @@ body {
 .texto {
     background-color: white;
     padding: 25px;
+    padding-left: 12%;
+    padding-right: 12%;
     text-align: justify;
     line-height: 1.5;
 }
